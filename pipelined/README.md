@@ -1,8 +1,13 @@
 # Pipelined Implementation
 
+Although you may be seeing a directory for sequential veriosn, it will work but it's working is not automated.
+
+Use the pipelined version and the instruction are for it.
+
 Use this folder to house the implementation of the pipelined RISC V processor
 
 - put all module files into a folder called `src` and have the main wrapper file as `main.v`
+
 
 ---
 
@@ -70,11 +75,20 @@ brew install icarus-verilog gtkwave
 
 ---
 
-### **2. Clone the Repository**
+### **2. Clone the Repository
+
+
+
+**
 
 Run the following command to clone the RISC-V processor repository:
 
-cd RISCV_Processor/Pipelined_Processor/src
+```
+git clone https://github.com/ManikyaPant/RISC-V-Processor.git
+cd RISC-V-Processor/Pipelined_Processor/src
+
+```
+
 
 ---
 
