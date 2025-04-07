@@ -300,4 +300,4 @@ gtkwave main.vcd
 
 ### Credits
 
-The encoder module is adapted from [LUPLabs&#39; rvcodec.js](https://github.com/lupyuen/rvcodec.js), and I built a custom assembler on top of it to convert RISC-V assembly files into machine code for my Verilog-based processor.
+The encoder module is adapted from [LUPLabs&#39; rvcodec.js](https://gitlab.com/luplab/rvcodecjs), and I built a custom assembler on top of it to convert RISC-V assembly files into machine code for my Verilog-based processor.
